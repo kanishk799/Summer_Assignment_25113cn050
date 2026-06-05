@@ -91,8 +91,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/kanis/Desktop/summer assingment/Summer_Assignment_25113cn050/Day_03",
-      "program": "c:/Users/kanis/Desktop/summer assingment/Summer_Assignment_25113cn050/Day_03/build/Debug/outDebug",
+      "cwd": "c:/Users/kanis/Desktop/summer assingment/Summer_Assignment_25113cn050/Day_04",
+      "program": "c:/Users/kanis/Desktop/summer assingment/Summer_Assignment_25113cn050/Day_04/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
